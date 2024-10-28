@@ -33,3 +33,5 @@ echo hello bash
 touch questionnaire.sh
 echo hello questionnaire
 echp hello questionnaire
+cd ~/project
+sh questionnaire.sh
