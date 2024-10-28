@@ -162,3 +162,4 @@ help test
 help let
 ./bingo.sh
 __vsc_prompt_cmd_original
+touch fortune.sh
