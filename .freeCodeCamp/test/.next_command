@@ -40,3 +40,4 @@ bash questionnaire.sh
 ls --color=auto
 wich bash
 which bash
+./questionnaire.sh
