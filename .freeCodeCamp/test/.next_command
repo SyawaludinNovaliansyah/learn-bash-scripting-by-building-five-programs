@@ -35,3 +35,5 @@ echo hello questionnaire
 echp hello questionnaire
 cd ~/project
 sh questionnaire.sh
+bash questionnaire
+bash questionnaire.sh
