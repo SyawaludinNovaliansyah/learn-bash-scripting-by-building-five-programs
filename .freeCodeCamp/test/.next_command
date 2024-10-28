@@ -41,3 +41,4 @@ ls --color=auto
 wich bash
 which bash
 ./questionnaire.sh
+ls --color=auto -l
