@@ -139,3 +139,4 @@ help test
 help test
 help let
 (( I += 10 ))
+echo $I
