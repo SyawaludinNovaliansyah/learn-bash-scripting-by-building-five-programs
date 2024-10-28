@@ -8,3 +8,4 @@ echo $QUESTION2
 read LOCATION
 echo Hello $NAME from $LOCATION.
 echo ~~ Questionnaire ~~
+echo -e \n~~ Questionnaire ~~\n
