@@ -135,3 +135,6 @@ echo $I
 (( I++ ))
 ehco $I
 echo $I
+help test
+help test
+help let
