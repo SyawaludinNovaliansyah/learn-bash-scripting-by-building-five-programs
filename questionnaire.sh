@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -e "\n~~ Questionnaire ~~\n"
 QUESTION1="What's your name?"
 echo $QUESTION1
 read NAME
@@ -8,4 +9,4 @@ echo $QUESTION2
 read LOCATION
 echo Hello $NAME from $LOCATION.
 echo ~~ Questionnaire ~~
-echo -e \n~~ Questionnaire ~~\n
+
