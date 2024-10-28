@@ -10,5 +10,6 @@ read LOCATION
 echo Hello $NAME from $LOCATION.
 echo ~~ Questionnaire ~~
 QUESTION3="What's your favorite coding website?"
-
 echo $QUESTION3
+read WEBSITE
+echo $WEBSITE
