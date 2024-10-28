@@ -100,3 +100,4 @@ help test
 [[ -a bad_file.txt ]]
 __vsc_prompt_cmd_original
 [[ -x countdown.sh ]]
+help [[
