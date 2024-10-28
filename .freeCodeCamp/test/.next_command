@@ -55,3 +55,4 @@ echo
 ./questionnaire.sh
 echo --help
 man echo
+./questionnaire.sh
