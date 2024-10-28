@@ -73,3 +73,5 @@ __vsc_prompt_cmd_original
 help if
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh arg1
+./countdown.sh arg2
