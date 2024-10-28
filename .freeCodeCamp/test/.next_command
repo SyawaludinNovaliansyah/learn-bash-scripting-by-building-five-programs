@@ -38,3 +38,5 @@ sh questionnaire.sh
 bash questionnaire
 bash questionnaire.sh
 ls --color=auto
+wich bash
+which bash
