@@ -51,3 +51,4 @@ ls --color=auto -l
 ./questionnaire.sh
 echo
 ./questionnaire.sh
+./questionnaire.sh
